@@ -42,7 +42,7 @@ I AM STILL A PROGRAMMER BY &hearts;
 - Slack
 - Graphql
 
-`Social Links`: [Stack Overflow][7] [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
+`Social Links`: [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
 
 
   [1]: https://www.surjeetbhadauriya.com
