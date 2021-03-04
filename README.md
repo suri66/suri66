@@ -8,7 +8,7 @@ I AM STILL A PROGRAMMER BY &hearts;
 
 `From`: Ahmedabad, Gujarat, India 
 
-`About me`: [https://www.surjeetbhadauriya.com][1]
+`About me`: [https://www.surjeetbhadauriya.zohosites.com][1]
 
 **Backend**
 
