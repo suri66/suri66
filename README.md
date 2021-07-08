@@ -1,6 +1,6 @@
 ### Hi, I'm Surjeet 👋💻
 
-![Surjeet Bhadauriya](https://github.com/suri66/suri66/blob/master/Surjeet Bhadauriya Banner.gif)
+![Surjeet Bhadauriya](https://github.com/suri66/suri66/blob/master/Surjeet%20Bhadauriya%20Banner.gif)
 
 I AM STILL A PROGRAMMER BY &hearts;
 
