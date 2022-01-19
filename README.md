@@ -11,7 +11,7 @@
 
 - 👨‍💻 I am a full stack developer based in India. I work at SixBerries to deliver the quality products. I build some extra stuff/projects during my free time and share them here. Please go through my repos to find awesome stuff you may like.
 
-- 📫 Reach me over [Linkedin](https://www.linkedin.com/in/surjeet-bhadauriya-b26a1183/?originalSubdomain=in) or [Twitter](https://twitter.com/i_am_surii).
+- 📫 Reach me over [Linkedin](https://www.linkedin.com/in/surjeet-bhadauriya-b26a1183/?originalSubdomain=in) or [Twitter](https://twitter.com/i_am_surii)
 
 - ⚡ Subscribe to my [Youtube channel](https://www.youtube.com/channel/UCuZjuJzMLeJi3SW4qd8-Vlg)
 
