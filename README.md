@@ -15,7 +15,7 @@
 
 - ⚡ Subscribe to my [Youtube channel](https://www.youtube.com/channel/UCuZjuJzMLeJi3SW4qd8-Vlg)
 
-- ⚡ Checkout my answer on [Stack Overflow](https://stackoverflow.com/users/5939058/surjeet-bhadauriya)
+- ⚡ Checkout my answers on [Stack Overflow](https://stackoverflow.com/users/5939058/surjeet-bhadauriya)
  
 
 <p align="center">
