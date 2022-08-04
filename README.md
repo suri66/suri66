@@ -46,7 +46,7 @@
 
 **Frontend**: ReactJs, Angular, NextJs, VueJs, HTML, CSS, SASS, Bootstrap, Material, Ant Design
 
-**DataBase**: MongoDB, ostgresql
+**DataBase**: MongoDB, postgresql
 
 **Others**: Graphql, Docker, GIT, JIRA, Slack, Monday
 
