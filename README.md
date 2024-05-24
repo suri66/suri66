@@ -44,11 +44,13 @@
 
 **Backend**: NodeJs 
 
-**Frontend**: ReactJs, Angular, NextJs, VueJs, HTML, CSS, SASS, Bootstrap, Material, Ant Design
+**Frontend**: ReactJs, NextJs, Angular, HTML, CSS, SCSS, Bootstrap, Material, AnT Design
 
-**DataBase**: MongoDB, PostgreSQL
+**DataBase**: MongoDB, PostgreSQL, Firestore
 
-**Others**: Graphql, Docker, GIT, JIRA, Slack, Monday
+**Cloud**: GCP (Google Cloud Function, API Gateway, PubSub, Cloud Storage, Cloud Run)
+
+**Others**: GraphQL, Docker, GIT, JIRA, Slack, Monday
 
 `Social Links`: [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
  
